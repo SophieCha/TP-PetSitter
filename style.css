@@ -1,0 +1,28 @@
+nav {
+    background-color: #1D3557;
+    color:white;
+}
+
+.bouton {
+    background-color: #1D3557;
+    color:white;
+    text-decoration: none;
+}
+
+#infos {
+    background-color: #A8DADC;
+}
+
+footer {
+    background-color: #1D3557;
+    color:white;
+}
+
+.bg-custom {
+    background-color: #f7f5f5;
+}
+
+/* label {
+    margin-bottom: 1em;
+    margin-left: 1em;
+} */
